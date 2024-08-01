@@ -1,13 +1,17 @@
 
 /* Your CSS Code here. */
 table {
-            width: 100%;
-            border-collapse: separate;
-            font-size: 18px;
-            text-align: center;
-            border: 3px solid #7a0000;
+	width: 100%;
+	border-collapse: separate;
+	font-size: 18px;
+	text-align: center;
+	border: 3px solid #7a0000;
         }
-        th, td {
-            padding: 15px;
-            border: 3px solid #007308;
-        }
+th, td {
+	padding: 15px;
+	border: 3px solid #007308;
+}
+#black {
+	background-color: #000000;
+	color: #ffffff;
+}
